@@ -26,6 +26,8 @@ PS: On a personal note, I am a calm individual who finds joy in life's simplest 
 
 ## ❝ Random Quote
 
+Feeling Low? Here’s Your Dose of Motivation Magic!
+
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in&theme=gruvbox&font=Architect&quoteCategory=life)
 
 ---
