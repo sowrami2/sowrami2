@@ -24,7 +24,7 @@ PS: On a personal note, I am a calm individual who finds joy in life's simplest 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sowmyaramineni.netlify.app/)
 
-## ❝ Random Quote
+## ❝ Quote
 
 Feeling Low? Here’s Your Dose of Motivation Magic!
 
