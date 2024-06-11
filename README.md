@@ -9,7 +9,7 @@ Let' explore possibilities together! ✨
 PS: On a personal note, I am a calm individual who finds joy in life's simplest moments. Three essentials that bring me immense happiness are my family, a comforting cup of tea, and the occasional indulgence in KFC.
 
 <picture>
- <img alt="Image" src="https://private-user-images.githubusercontent.com/166000656/338516612-7f26ba36-d8b4-461b-8438-7fd1c4926159.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgwOTcyMTAsIm5iZiI6MTcxODA5NjkxMCwicGF0aCI6Ii8xNjYwMDA2NTYvMzM4NTE2NjEyLTdmMjZiYTM2LWQ4YjQtNDYxYi04NDM4LTdmZDFjNDkyNjE1OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxMVQwOTA4MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NmI2NWJmNGI5YjgwZThmNTJjM2E0ODhhNTA4ZjYxNDNhMmEyNmQwNjJlYmNmY2VjZjk1ODg1MDZmYjk0N2FkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.COyZ54YrnehshYfsOUnTZYYGKCoefMm-2ImCMfXlCh0">
+ <img alt="Image" src="https://i.imgur.com/s4WKKz9.png">
 </picture>
 
 ## 🛠️ Tech Stack
