@@ -9,7 +9,7 @@ Let' explore possibilities together! ✨
 PS: On a personal note, I am a calm individual who finds joy in life's simplest moments. Three essentials that bring me immense happiness are my family, a comforting cup of tea, and the occasional indulgence in KFC.
 
 <picture>
- <img alt="Image" src="https://i.imgur.com/s4WKKz9.png">
+ <img alt="Image" src="https://imgur.com/1pU2BZ0">
 </picture>
 
 ## 🛠️ Tech Stack
