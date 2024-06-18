@@ -20,9 +20,9 @@ PS: On a personal note, I am a calm individual who finds joy in life's simplest 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmya-ramineni-545991278/) 
 
-## 🖥️ Portfolio
+<!--## 🖥️ Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sowmyaramineni.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sowmyaramineni.netlify.app/)-->
 
 ## ❝ Quote
 
